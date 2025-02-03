@@ -1,16 +1,4 @@
-
 [
-  {
-    "equipment_id": "101",
-    "name": "Fire Extinguisher",
-    "category": "Fire Safety",
-    "location": "Lobby",
-    "last_inspection_status": "Passed",
-    "status": "OK",
-    "last_inspection": "2025-01-01",
-    "next_due": "2025-02-01",
-    "notes": "No issues detected"
-  },
   {
     "equipment_id": "102",
     "name": "Fire Alarm",
