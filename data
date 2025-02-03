@@ -1,0 +1,58 @@
+
+[
+  {
+    "equipment_id": "101",
+    "name": "Fire Extinguisher",
+    "category": "Fire Safety",
+    "location": "Lobby",
+    "last_inspection_status": "Passed",
+    "status": "OK",
+    "last_inspection": "2025-01-01",
+    "next_due": "2025-02-01",
+    "notes": "No issues detected"
+  },
+  {
+    "equipment_id": "102",
+    "name": "Fire Alarm",
+    "category": "Fire Safety",
+    "location": "Server Room",
+    "last_inspection_status": "Passed",
+    "status": "OK",
+    "last_inspection": "2024-12-15",
+    "next_due": "2025-01-15",
+    "notes": "Functioning well"
+  },
+  {
+    "equipment_id": "4",
+    "name": "Smoke Detector",
+    "category": "Fire Safety",
+    "location": "Hallway",
+    "last_inspection_status": "Failed",
+    "status": "Needs Repair",
+    "last_inspection": "2025-01-10",
+    "next_due": "2025-02-10",
+    "notes": "Requires battery replacement"
+  },
+  {
+    "equipment_id": "5",
+    "name": "Fire Blanket",
+    "category": "Fire Safety",
+    "location": "Kitchen",
+    "last_inspection_status": "Passed",
+    "status": "OK",
+    "last_inspection": "2025-01-05",
+    "next_due": "2025-02-05",
+    "notes": "In good condition"
+  },
+  {
+    "equipment_id": "6",
+    "name": "Emergency Exit Sign",
+    "category": "Emergency Equipment",
+    "location": "Main Entrance",
+    "last_inspection_status": "Passed",
+    "status": "OK",
+    "last_inspection": "2024-12-20",
+    "next_due": "2025-01-20",
+    "notes": "No issues detected"
+  }
+]
